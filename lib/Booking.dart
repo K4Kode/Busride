@@ -69,7 +69,7 @@ class _BookingState extends State<Booking> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Container(
-                          height: 250, width: 350,
+                          height: 250, width: 300,
                           //color: Colors.red,
                           child: Image.asset('assets/simple.png'),
                         )
